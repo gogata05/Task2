@@ -1,7 +1,7 @@
 prefix                       = "gogata05"
 app_name                     = "homies"
 resource_group_name          = "rg"
-resource_group_location      = "East US"
+resource_group_location      = "West Europe"
 service_plan_name            = "asp"
 web_app_name                 = "webapp"
 sql_server_name              = "sqlserver"
